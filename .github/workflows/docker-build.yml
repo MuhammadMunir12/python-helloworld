@@ -40,4 +40,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: claubr20/python-helloworld:latest
+          tags: blankspace/python-helloworld:latest
